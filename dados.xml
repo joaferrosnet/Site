@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personagens>
+
+    <character>
+        <id>1</id>
+        <name>Joel</name>
+        <status>Vivo</status>
+        <description>Joel é um sobrevivente endurecido do mundo pós-apocalíptico, conhecido por sua determinação e habilidades de sobrevivência. Ele é o protagonista principal de "The Last of Us" e assume a responsabilidade de proteger Ellie a qualquer custo.</description>
+    </character>
+   
+ <character>
+        <id>2</id>
+        <name>Ellie</name>
+          <status>Vivo</status>
+        <description>Ellie é uma jovem corajosa e resiliente que se torna uma figura central na jornada de Joel. Ela possui uma imunidade única ao fungo Cordyceps, que a torna crucial para a busca por uma cura para a epidemia que devastou a humanidade.</description>
+    </character>
+    <character>
+        <id>3</id>
+        <name>Tess</name>
+        <status>Morta</status>
+        <description>Tess é uma parceira de negócios e aliada de Joel, conhecida por sua astúcia e determinação. Ela desempenha um papel importante no início da história, ajudando Joel em suas empreitadas no mundo hostil de "The Last of Us".</description>
+    </character>
+    <character>
+        <id>4</id>
+        <name>Bill</name>
+          <status>Vivo</status>
+        <description>Bill é um sobrevivente solitário e desconfiado que vive em uma cidade abandonada. Ele possui habilidades únicas de fabricação e é uma fonte valiosa de recursos para Joel e Ellie em sua jornada.</description>
+    </character>
+    <character>
+        <id>5</id>
+        <name>Tommy</name>
+          <status>Vivo</status>
+        <description>Tommy é o irmão mais novo de Joel e um ex-Firefly. Ele lidera um assentamento chamado Condado de Jackson, onde tenta manter um senso de civilização no mundo pós-apocalíptico.</description>
+    </character>
+    <character>
+        <id>6</id>
+        <name>Marlene</name>
+          <status>Vivo</status>
+        <description>Marlene é a líder dos Fireflies, um grupo de milícia que luta contra o regime militar em "The Last of Us". Ela é uma mulher forte e determinada que acredita na causa de encontrar uma cura para a infecção por Cordyceps.</description>
+    </character>
+    <character>
+        <id>7</id>
+        <name>Henry</name>
+        <status>Morta</status>
+        <description>Henry é um sobrevivente que Joel e Ellie encontram durante sua jornada. Ele inicialmente parece hostil, mas depois se torna um aliado, acompanhando-os por territórios perigosos.</description>
+    </character>
+    <character>
+        <id>8</id>
+        <name>Sam</name>
+        <status>Morta</status>
+        <description>Sam é o irmão mais novo de Henry e, como ele, torna-se um companheiro de Joel e Ellie. Apesar de sua pouca idade, Sam mostra coragem e recursos diante da adversidade.</description>
+    </character>
+    <character>
+        <id>9</id>
+        <name>David</name>
+        <status>Morta</status>
+        <description>David é o líder de um grupo de sobreviventes no mundo pós-apocalíptico de "The Last of Us". Ele inicialmente parece amigável e prestativo, mas depois revela um lado mais sombrio de seu caráter.</description>
+    </character>
+    <character>
+        <id>10</id>
+        <name>Sarah</name>
+        <status>Morta</status>
+        <description>Sarah é a filha de Joel e um personagem importante em "The Last of Us". Ela é uma jovem gentil e carinhosa que tem um forte vínculo com seu pai. Sarah é apresentada no início do jogo, onde ela e Joel lutam para sobreviver em um mundo devastado por uma praga.</description>
+    </character>
+
+</personagens>
